@@ -13,7 +13,7 @@ This is the question that drives our work.
 
 **Contacts**
 
-<i class="fas fa-fw fa-envelope"></i> darici\<at\>mul-ct.de  
+<i class="fas fa-fw fa-envelope"></i> d.darici\<at\>mul-ct.de  
 
 ## Our Approach
 
