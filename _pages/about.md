@@ -21,6 +21,8 @@ We are a research group that use eye-tracking to measure visual expertise in lab
 
 Building on this, we develop and test instructional interventions such as eye movement modelling examples, and AI-assisted tools that make expert attention explicit and learnable. We evaluate these approaches in cross-sectional and randomised controlled studies across a range of medical domains, including histology, sonography, radiology, and robotic surgery.
 
+<img src="/images/group.jpg">
+
 ## Why It Matters
 
 As medical training faces growing pressure characterized by more students, shorter contact time, increasing complexity, and AI-assisted working environments, scalable and evidence-based approaches to teaching visual expertise become ever more important.
