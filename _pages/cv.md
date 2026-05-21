@@ -198,13 +198,13 @@ author_profile: true
       <span class="member-title">B. Sc.</span>
     </div>
     <div class="member-card" id="card-2">
-      <img src="/images/bio-photo-2.jpg" class="member-photo" alt="Anastasia Samoukina">
+      <img src="/images/samoukina.jpg" class="member-photo" alt="Anastasia Samoukina">
       <span class="member-name">Anastasia Samoukina</span>
       <span class="member-role">Doctoral Student</span>
       <span class="member-title">M. Sc.</span>
     </div>
     <div class="member-card" id="card-3">
-      <img src="/images/bio-photo-2.jpg" class="member-photo" alt="René Bieber">
+      <img src="/images/bieber.jpg" class="member-photo" alt="René Bieber">
       <span class="member-name">René Bieber</span>
       <span class="member-role">Technician</span>
       <span class="member-title"></span>
