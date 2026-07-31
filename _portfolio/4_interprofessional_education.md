@@ -6,7 +6,7 @@ collection: portfolio
 ## Overview
 This research strand sits at the intersection of medical education, social psychology, and cognitive neuroscience. At its core, we ask: how do members of medical teams coordinate their visual attention during joint tasks, and what does this reveal about how expertise, and role shape shared situational awareness? We aim to deepen our understanding of how different professionals perceive and respond to the same clinical environment, and what this means for patient safety and team performance.
 
-key publications: [Bellstedt et al., (in review)]
+key publications: [Bellstedt et al., 2026]
 
 ## Multiparty eye-tracking methodology to measure visual coordination in teams
 We apply mobile eye-tracking technology to record the gaze of multiple team members during ecological valid scenarios. We extend to multimodal learner analytics by incorporating heart-rate sensors, and mobile EEG.
