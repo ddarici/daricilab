@@ -215,6 +215,12 @@ author_profile: true
       <span class="member-role">Doctoral Researcher</span>
       <span class="member-title"></span>
     </div>
+            <div class="member-card" id="card-5">
+      <img src="/images/schmeink.jpg" class="member-photo" alt="Finja Schmeink">
+      <span class="member-name">Finja Schmeink</span>
+      <span class="member-role">Research Assistant</span>
+      <span class="member-title"></span>
+    </div>
   </div>
 
   <div class="side-panel" id="side-panel">
