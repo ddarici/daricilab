@@ -221,6 +221,12 @@ author_profile: true
       <span class="member-role">Research Assistant</span>
       <span class="member-title"></span>
     </div>
+    <div class="member-card" id="card-6">
+      <img src="/images/kruse.jpg" class="member-photo" alt="Devin Kruse">
+      <span class="member-name">Devin Kruse</span>
+      <span class="member-role">Research Assistant</span>
+      <span class="member-title"></span>
+    </div>
   </div>
 
   <div class="side-panel" id="side-panel">
