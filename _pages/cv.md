@@ -189,7 +189,6 @@ author_profile: true
       <img src="/images/darici.jpg" class="member-photo" alt="Dogus Darici">
       <span class="member-name">Dogus Darici</span>
       <span class="member-role">Principal Investigator</span>
-      <span class="member-title">Univ.-Prof. Dr.</span>
     </div>
     <div class="member-card" id="card-1">
       <img src="/images/bellstedt.jpg" class="member-photo" alt="Michelle Bellstedt">
@@ -200,7 +199,6 @@ author_profile: true
       <img src="/images/samoukina.jpg" class="member-photo" alt="Anastasia Samoukina">
       <span class="member-name">Anastasia Samoukina</span>
       <span class="member-role">Doctoral Researcher</span>
-      <span class="member-title">M. Sc.</span>
     </div>
     <div class="member-card" id="card-3">
       <img src="/images/bieber.jpg" class="member-photo" alt="René Bieber">
