@@ -228,7 +228,7 @@ author_profile: true
     </div>
         <div class="member-card" id="card-7">
       <img src="/images/debel.jpg" class="member-photo" alt="Jana Debel">
-      <span class="member-name">Devin Kruse</span>
+      <span class="member-name">Jana Debel</span>
       <span class="member-role">Research Assistant</span>
       <span class="member-title"></span>
     </div>
